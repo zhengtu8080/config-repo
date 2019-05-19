@@ -17,4 +17,4 @@ logging:
       hib:
         order:
             dao: debug
-env: test9
+env: test6
