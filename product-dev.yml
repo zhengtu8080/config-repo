@@ -6,7 +6,7 @@ spring:
     url: jdbc:mysql://localhost:3306/hib?serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&useSSL=true&allowMultiQueries=true
   rabbitmq:
     port: 5672
-    host: 192.168.2.238
+    host: 192.168.2.138
     password: guest
     username: guest  
 
