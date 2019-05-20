@@ -8,7 +8,7 @@ spring:
     port: 5672
     host: 192.168.2.138
     password: guest
-    username: guest  
+    username: guest
 
 mybatis:
   mapper-locations: classpath:mapper/**.xml
