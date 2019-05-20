@@ -13,3 +13,5 @@ logging:
      hib:
       product:
        dao: debug
+server:
+  post: 8082
